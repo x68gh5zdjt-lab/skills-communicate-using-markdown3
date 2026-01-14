@@ -29,3 +29,12 @@ I don't think so, I'll see when I get there
 I hope they're prepared for the Prince of Bel-Air
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
