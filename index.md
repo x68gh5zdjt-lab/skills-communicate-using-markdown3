@@ -27,3 +27,5 @@ But wait, I hear they're prissy, bourgeois, and all that
 Is this the type of place that they should send this cool cat?
 I don't think so, I'll see when I get there
 I hope they're prepared for the Prince of Bel-Air
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
